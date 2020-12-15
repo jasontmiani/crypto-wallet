@@ -29,7 +29,7 @@ export default class Button extends PureComponent {
           styles.button,
           primary && styles.primary,styles.row,
           bottomless && styles.borderWhite,
-          size && `styles.${size}`,
+          size && (size=='large' ? styles.large : size=='small' ? styles.small : styles.medium),
           style
         ]}
       >

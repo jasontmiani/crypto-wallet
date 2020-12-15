@@ -14,13 +14,13 @@ export default class InitialScreen extends PureComponent {
             onPress={() => this.props.navigation.navigate('Login')}
             textContent="LOGIN"
             primary={true}
-            size="large"
+            size='large'
           />
           <Button
             onPress={() => this.props.navigation.navigate('Signup')}
             bottomless={true}
             textContent="REGISTER"
-            size="large"
+            size='large'
           />
         </View>
       </View>
