@@ -2,11 +2,12 @@
 Forked from lucasnsborges/react-native-crypto-wallet
 
 ## Crypto Wallet
-This app is for the practice of React and React Native technology only.
+This app's prototype was for the practice of React and React Native technology only.
+The fork is for enterprise use
 
 ## Got Started
 
-- Cloned your fork of the project locally. At the command line:
+- Cloned the fork of the project locally. At the command line:
     ```
     $ git clone https://github.com/lucasnsborges/react-native-crypto-wallet.git
     ```
