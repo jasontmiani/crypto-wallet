@@ -9,7 +9,7 @@ The fork is for enterprise use
 
 - Cloned the fork of the project locally. At the command line:
     ```
-    $ git clone https://github.com/lucasnsborges/react-native-crypto-wallet.git
+    $ git clone https://github.com/{your_github_username}/react-native-crypto-wallet.git
     ```
 - Instructions to launch the app
     ```bash
