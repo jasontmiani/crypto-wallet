@@ -3,7 +3,6 @@
     "name": "cryptoWallet",
     "slug": "cryptoWallet",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
