@@ -8,7 +8,6 @@ export default class InitialScreen extends PureComponent {
     return (
       <View style={styles.container}>
         <View style={{ flex: 2 }}></View>
-
         <View style={styles.buttonsWrapper}>
           <Button
             onPress={() => this.props.navigation.navigate('Login')}
